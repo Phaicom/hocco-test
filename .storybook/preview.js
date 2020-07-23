@@ -20,7 +20,6 @@ Vue.component('nuxt-link', {
 })
 
 configureViewport({
-  defaultViewport: 'VuetifyMd',
   viewports: {
     ...INITIAL_VIEWPORTS,
   },
@@ -38,14 +37,10 @@ addDecorator(() => ({
           light: {
             primary: '#f9891b',
             secondary: '#3b98c9',
-            accountSidebar: '#333333',
-            copyright: '#798181',
-            menuBg: '#FFFFFF',
-            loginBg: '#F7FAF9',
-            error: '#F75F4F',
-            success: '#00A381',
-            disable: '#CCCCCC',
-            lineBtn: '#00C300',
+            info: '#26a69a',
+            warning: '#ffc107',
+            error: '#dd2c00',
+            success: '#00e676',
           },
         },
       },

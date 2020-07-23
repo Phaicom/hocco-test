@@ -73,10 +73,10 @@ export default {
         light: {
           primary: '#f9891b',
           secondary: '#3b98c9',
-          info: colors.teal.lighten1,
-          warning: colors.amber.base,
-          error: colors.deepOrange.accent4,
-          success: colors.green.accent3,
+          info: '#26a69a',
+          warning: '#ffc107',
+          error: '#dd2c00',
+          success: '#00e676',
         },
       },
       options: {
