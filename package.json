@@ -20,7 +20,7 @@
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "nuxt": "^2.13.3",
     "vueperslides": "^2.10.2",
-    "vuetify": "2.3.4"
+    "vuetify": "2.6.10"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
